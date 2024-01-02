@@ -1,0 +1,1 @@
+Python is procedure oriented,object oriented, functional programming language
